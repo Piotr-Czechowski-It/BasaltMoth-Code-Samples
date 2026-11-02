@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/BasaltMoth.CodeSamples/BasaltMoth.CodeSamples.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/BasaltMoth.CodeSamples.Tests/BasaltMoth.CodeSamples.Tests.csproj" />
+  </Folder>
+</Solution>
