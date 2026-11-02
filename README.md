@@ -102,11 +102,3 @@ This repository contains **simplified, standalone implementations** of selected 
 These examples are intended to demonstrate programming practices and problem-solving approaches. They are not verbatim extracts of the private application's source code.
 
 The complete BasaltMoth application and its production-specific business logic remain in a private repository.
-
-## Author
-
-**Piotr Czechowski**  
-Junior C#/.NET Developer
-
-GitHub: [GitHub Profile]  
-LinkedIn: [LinkedIn Profile]
